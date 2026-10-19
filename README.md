@@ -1,4 +1,4 @@
-# WeCom Mail Digest with WeChat Auto Push Skill
+# WeCom Mail Assistant Skill
 
 [中文 README](README_CN.md) 
 
