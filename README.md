@@ -1,5 +1,7 @@
 # WeCom Mail Digest with WeChat Auto Push Skill
 
+[中文 README](README_CN.md) 
+
 Incrementally reads new mail from an enterprise IMAP inbox, generates a digest, sends it via SMTP, and prints a WeChat-friendly summary to stdout so WorkBuddy automations can push it to a personal WeChat account.
 
 ## Features
